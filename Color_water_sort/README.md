@@ -7,8 +7,7 @@
 This project implements an algorithm designed to solve the Color Water Sort Puzzle Games.
 
 <h2>How does it works? </h2>
-Each tube is represented as a list that stores the colors (the colors are represented as characters). For example, if there are eleven tubes, we have eleven lists, each containing four levels. These lists are encapsulated in a larger list, with the last two tubes being empty, as shown in the image below 
-![image](https://github.com/ZaraTiana3/Python_project/blob/main/Color_water_sort/images/initial_steps.JPG)
+Each tube is represented as a list that stores the colors (the colors are represented as characters). For example, if there are eleven tubes, we have eleven lists, each containing four levels. These lists are encapsulated in a larger list, with the last two tubes being empty
 
 Here o: orange;  p: purple; c: cyan; l: light blue; k: pink; dark blue: b: brown; r: red; g: green; y: yellow 
 The user manually inputs the colors, entering only the first letter of each color.
@@ -33,6 +32,7 @@ Unsorted colors:
 
 
 ![image](https://github.com/ZaraTiana3/Python_project/blob/main/Color_water_sort/images/ending.JPG)
+
 
 
 
