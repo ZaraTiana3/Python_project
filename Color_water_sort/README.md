@@ -28,11 +28,12 @@ Unsorted colors:
 
 <h2>Final state </h2> 
 
-![image]([https://github.com/user-attachments/assets/20d1a25e-4184-4510-9889-5d9b91d632e8](https://github.com/ZaraTiana3/Python_project/blob/main/Color_water_sort/images/final_steps.JPG))
+![image](https://github.com/ZaraTiana3/Python_project/blob/mainColor_water_sort/images/final_steps.JPG)
 
 
 
-![image]([https://github.com/user-attachments/assets/9b181ef8-5301-49bd-9e60-ba1b751434a2](https://github.com/ZaraTiana3/Python_project/blob/main/Color_water_sort/images/ending.JPG))
+![image](https://github.com/ZaraTiana3/Python_project/blob/main/Color_water_sort/images/ending.JPG)
+
 
 
 
