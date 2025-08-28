@@ -1,6 +1,6 @@
 <h1>Color_water_sort</h1>
 
-![image](https://github.com/user-attachments/assets/d1b3c4af-c8f3-4b08-8379-4fb51b44bac6)
+![image](https://github.com/ZaraTiana3/Python_project/blob/main/Color_water_sort/images/beginning.JPG))
 
 <h2>What is this project for?</h2>
 
@@ -33,6 +33,7 @@ Unsorted colors:
 
 
 ![image](https://github.com/user-attachments/assets/9b181ef8-5301-49bd-9e60-ba1b751434a2)
+
 
 
 
